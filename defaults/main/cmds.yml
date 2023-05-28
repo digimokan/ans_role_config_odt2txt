@@ -1,0 +1,9 @@
+# odt2txt cmd to execute to convert an odt file to text
+odt2txt_conv_odt_to_txt_cmd: 'odt2txt'
+
+# odt2txt cmd to execute to convert an ods file to text
+odt2txt_conv_ods_to_txt_cmd: 'odt2txt'
+
+# odt2txt cmd to execute to convert an odp file to text
+odt2txt_conv_odp_to_txt_cmd: 'odt2txt'
+

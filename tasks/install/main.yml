@@ -1,0 +1,7 @@
+- name: "Install the 'odt2txt' application package"
+  ansible.builtin.package:
+    name: odt2txt
+    state: present
+  become: true
+  become_user: root
+
