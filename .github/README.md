@@ -54,7 +54,7 @@ Install and configure the odt2txt file conversion utility.
        - name: "Install and configure the odt2txt file conversion utility"
          ansible.builtin.include_role:
            name: ans_role_config_odt2txt
-           public: yes
+           public: true
    ```
 
 ## Role Options
